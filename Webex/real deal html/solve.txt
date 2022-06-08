@@ -1,0 +1,4 @@
+The flag can be found in the dev tools in comments:
+
+<!-- You just found the real flag :) -->
+<!-- bcactf{tH4TZ_D4_R34l_D3Al_cb8949} -->

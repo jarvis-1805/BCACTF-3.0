@@ -1,0 +1,4 @@
+The flag can be found in the dev tools.
+ctrl + f to search for the flag "bcactf{"
+
+Flag: bcactf{f4rthER_th4n_m3eTS_th3_EY3_9928ef}
